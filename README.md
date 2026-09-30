@@ -27,7 +27,7 @@ You can download the latest release APK from the [Releases](https://github.com/A
 
 `bash
 # Clone the repository
-git clone [https://github.com/AyhamSai/MessageMe.git]((https://github.com/AyhamSai/chatting_app))
+git clone [https://github.com/AyhamSai/MessageMe.git](https://github.com/AyhamSai/MessageMe.git)
 
 # Install dependencies
 flutter pub get

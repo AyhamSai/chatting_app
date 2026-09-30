@@ -4,6 +4,15 @@ A cross-platform real-time messaging mobile application built with Flutter and F
 
 ---
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="" width="30%" />
+  <img src="" width="30%" />
+</p>
+
+---
+
 ## 🚀 Key Features
 
 - User Authentication: Secure user sign-up, login, and sign-out flows using Firebase Authentication.
